@@ -1,0 +1,4 @@
+[submodule "remote-pay-cloud-examples"]
+	path = remote-pay-cloud-examples
+	url = https://github.com/clover/remote-pay-cloud-examples.git
+	branch = master
